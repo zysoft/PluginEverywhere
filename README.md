@@ -1,4 +1,4 @@
-			Plugin Everywhere
+# Plugin Everywhere
 
 This is a library that allows to enable plugins for your existing projects
 even when they don't support plugin subsystem. Works as 3rd-pary library,
